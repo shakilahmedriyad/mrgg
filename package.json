@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build",
+		"build": "yarn add sharp --ignore-engines && vite build",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
@@ -34,6 +34,6 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/enhanced-img": "^0.3.1",
-		"sharp": "0.32.6"
+		"sharp": "^0.33.4"
 	}
 }
