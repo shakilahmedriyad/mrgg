@@ -34,6 +34,6 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/enhanced-img": "^0.3.1",
-		"sharp": "^0.33.4"
+		"sharp": "0.32.6"
 	}
 }
