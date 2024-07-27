@@ -26,12 +26,11 @@
 			<div class="max-h-[30rem] max-w-[30rem]">
 				<enhanced:img class=" object-cover" src="/static/cats3.jpg?w=1024" alt="cat" />
 			</div>
-			<p class="text-xl pt-3">ROADMAP (Soon)</p>
 		</div>
 
 		<button
 			class="uppercase text-black mt-7 font-medium border-b-4 border-r-4 scale-110 hover:scale-100 duration-300 border-black px-5 py-2 rounded-full hover:bg-black hover:text-white bg-white"
-			>How was Coby Born</button
+			>ROADMAP (Soon)</button
 		>
 	</div>
 </ContentLayout>

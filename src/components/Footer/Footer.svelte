@@ -11,7 +11,7 @@
 <section class="bg-[linear-gradient(180deg,#0051FF_0%,#6A707C_100%)]">
 	<ContentLayout>
 		<div class="py-10 flex text-white flex-col items-center">
-			<h2 class="uppercase text-4xl font-bold">MISTER MIGGLES</h2>
+			<h2 class="uppercase text-4xl font-bold">$Coby</h2>
 			<ul class="flex gap-5 mt-2">
 				{#each NavItem as item}
 					<a target="_blank" href={item.link}>
