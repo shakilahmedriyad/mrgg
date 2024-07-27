@@ -3,7 +3,7 @@
 
 	const NavItem = [
 		{ label: 'Chart', link: '#' },
-		{ label: 'X', link: '#' },
+		{ label: 'X', link: 'https://x.com/thecatcoby' },
 		{ label: 'Telegram', link: '#' }
 	];
 </script>
@@ -14,7 +14,9 @@
 			<h2 class="uppercase text-4xl font-bold">MISTER MIGGLES</h2>
 			<ul class="flex gap-5 mt-2">
 				{#each NavItem as item}
-					<li class="uppercase font-medium">{item.label}</li>
+					<a target="_blank" href={item.link}>
+						<li class="uppercase cursor-pointer font-medium">{item.label}</li>
+					</a>
 				{/each}
 			</ul>
 			<div>

@@ -7,21 +7,31 @@
 		class=" py-20 border-2 border-r-8 flex flex-col items-center border-b-8 text-white border-black mt-32 mb-10 rounded-lg bg-[linear-gradient(-159deg,#0051FF_0%,#6A707C_110%)]"
 	>
 		<div class="max-w-fit text-center mx-auto mb-10">
-			<h3 class="mb-2 text-4xl font-bold">What Is $COBY?</h3>
-			<p class="font-medium">Mr. Coby, The gambling addicted cat.</p>
+			<h3 class="mb-2 text-4xl font-bold">Why $Coby ?</h3>
+			<p class="text-xl">
+				$Coby is all about the commmunity, everything is designed to encourage our people to
+				actively contribute to the token's growth
+			</p>
 		</div>
 		<div class="flex px-2 md:gap-10 gap-2 flex-col items-center">
 			<div class="max-h-[30rem] max-w-[30rem]">
 				<enhanced:img class=" object-cover" src="/static/cats2.jpg?w=1024" alt="cat" />
 			</div>
+			<div class="max-w-fit mt-10 text-center mx-auto mb-10">
+				<p class="text-xl px-2 sm:px-16">
+					Successful meme coins share a common thread a community that believes in our potential and
+					collaborates to grow together <br /><br /> Are you ready to join $Coby on this journey?
+				</p>
+			</div>
 			<div class="max-h-[30rem] max-w-[30rem]">
 				<enhanced:img class=" object-cover" src="/static/cats3.jpg?w=1024" alt="cat" />
 			</div>
+			<p class="text-xl pt-3">ROADMAP (Soon)</p>
 		</div>
 
 		<button
 			class="uppercase text-black mt-7 font-medium border-b-4 border-r-4 scale-110 hover:scale-100 duration-300 border-black px-5 py-2 rounded-full hover:bg-black hover:text-white bg-white"
-			>How was Mr. Coby Born</button
+			>How was Coby Born</button
 		>
 	</div>
 </ContentLayout>

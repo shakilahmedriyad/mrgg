@@ -1,7 +1,7 @@
 <script>
 	const NavItem = [
 		{ label: 'Chart', link: '#' },
-		{ label: 'X', link: '#' },
+		{ label: 'X', link: 'https://x.com/thecatcoby' },
 		{ label: 'Telegram', link: '#' }
 	];
 </script>
@@ -10,7 +10,9 @@
 	<div class="shrink-1"></div>
 	<ul class=" md:flex hidden text-white gap-5 font-medium">
 		{#each NavItem as item}
-			<li class="uppercase cursor-pointer hover:text-gray-200 text-lg">{item.label}</li>
+			<a target="_blank" href={item.link}
+				><li class="uppercase cursor-pointer hover:text-gray-200 text-lg">{item.label}</li></a
+			>
 		{/each}
 	</ul>
 	<button
