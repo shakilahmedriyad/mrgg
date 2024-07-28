@@ -3,7 +3,7 @@
 	import NavBar from '../NavBar/NavBar.svelte';
 </script>
 
-<section class="pb-20 h-full bg-[linear-gradient(159deg,#0051FF_0%,#FFFFFF_100%)]">
+<section class="pb-20 h-full bg-[linear-gradient(180deg,#0051FF_0%,#FFFFFF_100%)]">
 	<ContentLayout>
 		<NavBar />
 		<div class="flex md:flex-row flex-col justify-center gap-1 mt-20">
