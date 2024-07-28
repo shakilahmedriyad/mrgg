@@ -8,7 +8,7 @@
 		<h1 class="text-3xl md:text-6xl">$Coby</h1>
 	</div>
 	<div class="px-5">
-		<a target="_blank" href={'#'}>
+		<a target="_blank" href={'https://t.me/CatCoby'}>
 			<img
 				src="/telegram.webp"
 				class="w-12 cursor-pointer mb-2 p-0.5 bg-white rounded-full"

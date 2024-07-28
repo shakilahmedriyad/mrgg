@@ -2,7 +2,7 @@
 	const NavItem = [
 		{ label: 'Chart', link: '#' },
 		{ label: 'X', link: 'https://x.com/thecatcoby' },
-		{ label: 'Telegram', link: '#' }
+		{ label: 'Telegram', link: 'https://t.me/CatCoby' }
 	];
 </script>
 
