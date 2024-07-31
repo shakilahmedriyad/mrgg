@@ -19,10 +19,15 @@
 			>
 				<h2 class="text-3xl mb-2 font-extrabold">$Coby</h2>
 				<p>Coby, The gambling addicted cat on solana</p>
-				<button
-					class="uppercase hover:scale-90 duration-200 px-9 mt-8 py-3 text-lg rounded-md text-white bg-black"
-					>Buy Now!</button
+				<a
+					target="_blank"
+					href="https://dexscreener.com/solana/6fmqwh5nhnhmabspqjkvkghsm89d8jqpstdspivmogjg"
 				>
+					<button
+						class="uppercase hover:scale-90 duration-200 px-9 mt-8 py-3 text-lg rounded-md text-white bg-black"
+						>Buy Now!</button
+					>
+				</a>
 			</div>
 		</div>
 		<div
