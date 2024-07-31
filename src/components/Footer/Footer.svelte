@@ -2,7 +2,10 @@
 	import ContentLayout from '$lib/utils/ContentLayout.svelte';
 
 	const NavItem = [
-		{ label: 'Chart', link: '#' },
+		{
+			label: 'Chart',
+			link: 'https://dexscreener.com/solana/6fmqwh5nhnhmabspqjkvkghsm89d8jqpstdspivmogjg'
+		},
 		{ label: 'X', link: 'https://x.com/thecatcoby' },
 		{ label: 'Telegram', link: 'https://t.me/CatCoby' }
 	];
