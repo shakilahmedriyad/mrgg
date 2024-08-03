@@ -30,11 +30,11 @@
 		<div
 			class="flex max-w-fit px-10 flex-wrap justify-center mt-12 mx-auto bg-white items-center gap-10 gap-y-3 py-2 border-2 rounded-xl border-black border-r-8"
 		>
-			<p class="sm:text-base text-xs">6fMQWH5nhNhMabSPqJkVKGHSM89d8jqPsTDsPivmoGjG</p>
+			<p class="sm:text-base text-xs">0x0000000000000000000000000000000</p>
 			<a href="#" target="_blank">
 				<button
 					class="bg-black scale-110 hover:scale-100 duration-200 hover:bg-white border-black border hover:text-black text-white rounded-full px-5 py-2"
-					>dexscreener</button
+					>chart</button
 				>
 			</a>
 		</div>
