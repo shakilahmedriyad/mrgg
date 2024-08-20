@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>$Coby | The gambiling cat</title>
+	<title>$Sunko | The gambiling trx</title>
 </svelte:head>
 <SideBar />
 <slot />

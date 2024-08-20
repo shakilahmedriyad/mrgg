@@ -9,8 +9,8 @@
 		<div class="max-w-fit text-center mx-auto mb-10">
 			<h3 class="mb-2 text-4xl font-bold">Why $Sunko?</h3>
 			<p class="text-xl">
-				$Sunko is all about the commmunity, everything is designed to encourage our people to
-				actively contribute to the token's growth
+				$Sunko the first Unique cat on TRX is all about the commmunity, everything is designed to
+				encourage our people to actively contribute to the token's growth
 			</p>
 		</div>
 		<div class="flex px-2 md:gap-10 gap-2 flex-col items-center">
@@ -20,7 +20,7 @@
 			<div class="max-w-fit mt-10 text-center mx-auto mb-10">
 				<p class="text-xl px-2 sm:px-16">
 					Successful meme coins share a common thread a community that believes in our potential and
-					collaborates to grow together <br /><br /> Are you ready to join $Coby on this journey?
+					collaborates to grow together <br /><br /> Are you ready to join $Sunko on this journey?
 				</p>
 			</div>
 			<div class="max-h-[50rem] max-w-[80rem]">

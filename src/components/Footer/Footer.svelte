@@ -6,8 +6,8 @@
 			label: 'Chart',
 			link: '#'
 		},
-		{ label: 'X', link: 'https://x.com/cobycto' },
-		{ label: 'Telegram', link: 'https://t.me/CtoCoby' }
+		{ label: 'X', link: 'https://x.com/sunkotrx' },
+		{ label: 'Telegram', link: 'https://t.me/SunkoTrx' }
 	];
 </script>
 

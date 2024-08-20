@@ -8,14 +8,14 @@
 		<h1 class="text-3xl md:text-6xl">$Sunko</h1>
 	</div>
 	<div class="px-5">
-		<a target="_blank" href={'https://t.me/CtoCoby'}>
+		<a target="_blank" href={'https://t.me/SunkoTrx'}>
 			<img
 				src="/telegram.webp"
 				class="w-12 cursor-pointer mb-2 p-0.5 bg-white rounded-full"
 				alt="telegram icon"
 			/>
 		</a>
-		<a target="_blank" href={'https://x.com/cobycto'}>
+		<a target="_blank" href={'https://x.com/sunkotrx'}>
 			<img src="/twitter.avif" class="w-12 cursor-pointer rounded-full" alt="telegram icon" />
 		</a>
 	</div>
