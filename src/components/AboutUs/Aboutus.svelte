@@ -7,9 +7,9 @@
 		class="  py-20 border-2 border-r-8 flex flex-col items-center border-b-8 text-white border-black mb-10 rounded-lg bg-[linear-gradient(-159deg,#0051FF_0%,#6A707C_110%)]"
 	>
 		<div class="max-w-fit text-center mx-auto mb-10">
-			<h3 class="mb-2 text-4xl font-bold">Why $Coby ?</h3>
+			<h3 class="mb-2 text-4xl font-bold">Why $Sunko?</h3>
 			<p class="text-xl">
-				$Coby is all about the commmunity, everything is designed to encourage our people to
+				$Sunko is all about the commmunity, everything is designed to encourage our people to
 				actively contribute to the token's growth
 			</p>
 		</div>
@@ -23,8 +23,8 @@
 					collaborates to grow together <br /><br /> Are you ready to join $Coby on this journey?
 				</p>
 			</div>
-			<div class="max-h-[30rem] max-w-[30rem]">
-				<enhanced:img class=" object-cover" src="/static/cats3.jpg?w=1024" alt="cat" />
+			<div class="max-h-[50rem] max-w-[80rem]">
+				<enhanced:img class=" object-cover" src="/static/sunko.png?w=1024" alt="cat" />
 			</div>
 		</div>
 	</div>

@@ -17,8 +17,8 @@
 			<div
 				class="max-w-[35rem] md:py-0 py-16 flex border-2 border-black border-b-8 border-r-8 flex-col items-start px-7 justify-center rounded-md p-1 w-full max-h-[35rem] bg-white"
 			>
-				<h2 class="text-3xl mb-2 font-extrabold">$Coby</h2>
-				<p>Coby, The gambling addicted cat on solana</p>
+				<h2 class="text-3xl mb-2 font-extrabold">$Sunko</h2>
+				<p>the First gambling addicted cat on TRX</p>
 				<a target="_blank" href="#">
 					<button
 						class="uppercase hover:scale-90 duration-200 px-9 mt-8 py-3 text-lg rounded-md text-white bg-black"

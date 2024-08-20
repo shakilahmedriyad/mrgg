@@ -5,7 +5,7 @@
 	<div
 		class="bg-white -ml-10 rounded-full font-bold uppercase pl-14 px-5 py-3 border border-b-4 border-r-4 border-black"
 	>
-		<h1 class="text-3xl md:text-6xl">$Coby</h1>
+		<h1 class="text-3xl md:text-6xl">$Sunko</h1>
 	</div>
 	<div class="px-5">
 		<a target="_blank" href={'https://t.me/CtoCoby'}>
