@@ -27,7 +27,7 @@
 				</a>
 			</div>
 		</div>
-		<div
+		<!-- <div
 			class="flex max-w-fit px-10 flex-wrap justify-center mt-12 mx-auto bg-white items-center gap-10 gap-y-3 py-2 border-2 rounded-xl border-black border-r-8"
 		>
 			<p class="sm:text-base text-xs">0x0000000000000000000000000000000</p>
@@ -37,6 +37,6 @@
 					>chart</button
 				>
 			</a>
-		</div>
+		</div> -->
 	</ContentLayout>
 </section>
