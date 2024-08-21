@@ -13,11 +13,11 @@
 				actively contribute to the token's growth
 			</p>
 		</div>
-		<div class="flex px-2 md:gap-10 gap-2 flex-col items-center">
+		<div class="flex px-2 gap-2 flex-col items-center">
 			<div class="max-h-[30rem] max-w-[30rem]">
-				<enhanced:img class=" object-cover" src="/static/cats2.jpg?w=1024" alt="cat" />
+				<enhanced:img class=" object-cover" src="/static/cats2.png?w=1024" alt="cat" />
 			</div>
-			<div class="max-w-fit mt-10 text-center mx-auto mb-10">
+			<div class="max-w-fit mt- text-center mx-auto mb-10">
 				<p class="mb-2 text-4xl px-2 font-bold sm:px-16">$Sunko the first Unique cat on TRX</p>
 				<p class="text-xl">
 					Successful meme coins share a common thread a community that believes in our potential and
