@@ -4,7 +4,7 @@
 
 <ContentLayout>
 	<div
-		class="  pt-20 border-2 border-r-8 flex flex-col items-center border-b-8 text-white border-black mb-10 rounded-lg bg-[linear-gradient(-159deg,#0051FF_0%,#6A707C_110%)]"
+		class="  pt-20 border-2 flex flex-col items-center border-b-8 text-white border-black mb-10 rounded-lg bg-[linear-gradient(-159deg,#0051FF_0%,#6A707C_110%)]"
 	>
 		<div class="max-w-fit text-center mx-auto mb-10">
 			<h3 class="mb-2 text-4xl font-bold">Why $Sunko?</h3>
