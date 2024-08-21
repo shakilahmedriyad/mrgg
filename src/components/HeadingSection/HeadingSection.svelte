@@ -10,7 +10,7 @@
 			<div class="max-w-[35rem] rounded-md p-1 w-full max-h-[35rem] border-2 border-black">
 				<enhanced:img
 					class="w-full h-full rounded-md object-cover"
-					src="/static/cats.jpg?w=1024"
+					src="/static/cats.png?w=1024"
 					alt="cats "
 				/>
 			</div>
